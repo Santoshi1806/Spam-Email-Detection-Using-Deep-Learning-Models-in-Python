@@ -10,9 +10,13 @@ In this project, I built an intelligent system to **detect spam emails** using *
 # 🔍 **Project Highlights:**
 
 🧠 Utilized **Recurrent Neural Networks (RNN)** and **LSTM models** to understand and classify email text.
+
 🧾 Performed **data preprocessing**, including tokenization, stopword removal, and vectorization using **TF-IDF** and **Word Embeddings**.
+
 ⚙️ Implemented the model in **Python 🐍** using **TensorFlow**, **Keras**, and **Scikit-learn** frameworks.
+
 📈 Evaluated model performance with metrics such as **Accuracy, Precision, Recall, and F1-Score**.
+
 🎯 The model achieved strong results in distinguishing **spam vs. ham (non-spam)** messages.
 
 ----
