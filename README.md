@@ -2,7 +2,7 @@
 
 # 🚀**Overview:**
 
-# 🚀 **Thrilled to share my latest Deep Learning project!**
+🚀 **Thrilled to share my latest Deep Learning project!**
 In this project, I built an intelligent system to **detect spam emails** using **Natural Language Processing (NLP)** and **Deep Learning** techniques — helping identify and filter unwanted messages efficiently. ✉️🔍
 
 ----
